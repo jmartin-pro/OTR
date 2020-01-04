@@ -23,7 +23,7 @@ Le projet comporte 2 dossiers :
 # Collaborateurs
 
 Le projet étant réalisé par groupe de 2, voici la liste des personnes affectées sur le présent projet : 
-- Justine MARTIN ([@justine-martin-study](https://github.com/justine-martin-study))
+- Justine MARTIN ([@jmartin-pro](https://github.com/jmartin-pro))
 - Léa BOTTON ([@BottonL](https://github.com/BottonL))
 
 # Crédits spéciaux
